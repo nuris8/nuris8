@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a software engineer, passionate about technolo
 - 👀 I’m interested in programming, animals and sports.
 - 🌱 I’m currently learning C, Python and GO.
 - 💞️ I’m looking to collaborate on open-source projects.
-- 📫 How to reach me nuinsape@gmail.com .
+- 📫 How to reach me nuinsape@gmail.com.
 
 ## 🛠️ Languages and Tools
 
