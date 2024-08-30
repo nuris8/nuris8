@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @nuris8 !
+# 👋 Hi, I’m Núria !
 Welcome to my GitHub profile! I'm a software engineer, passionate about technology and software development.
 - 👀 I’m interested in programming, animals and sports.
 - 💻 I’m currently working with Python and C.
